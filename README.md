@@ -12,5 +12,4 @@ checking on serVER
 OOOOOKKKKKKKKKK
 
 CREWW
-
-GGG
+yup
