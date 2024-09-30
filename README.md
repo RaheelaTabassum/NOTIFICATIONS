@@ -13,6 +13,4 @@ OOOOOKKKKKKKKKK
 
 CREW
 
-getting headers 1
-2
-[
+getting headers 
