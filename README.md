@@ -4,4 +4,4 @@
 
 checking push
 
-getting checks for realtime applicatio
+getting checks for realtime applications
