@@ -5,3 +5,5 @@
 checking push
 
 getting checks for realtime applications
+
+checking data is received
