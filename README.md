@@ -11,5 +11,5 @@ checking data is received
 checking on serVER
 OOOOOKKKKKKKKKK
 
-CREWW
+CREW
 
